@@ -10,12 +10,13 @@ A very basic express server that is used as a base for CI/CD deployment
 
 ### Links and Resources
 
-- [back-end dex server url](http://xyz.com)
-- [back-end production server url](https://xyz.com)
+- [Github actions](https://github.com/ShadowDraco/example-server/actions)
+- [back-end dev server url](https://frolic-server-deployment-pradtice.onrender.com)
+- [back-end production server url](https://frolic-server-deployment-practice.onrender.com)
 
 ### Collaborators
 
-- Ryan Gallaway's demo code (with permission)
+- Live coded with Ryan Gallaway's demo code (with permission)
 
 #### Setup
 
@@ -37,4 +38,4 @@ to run tests, after `npm i`, run `npm test`
 
 #### UML
 
-![UML image](./assets/example-server-uml.png)
+![UML image](/assets/UML401DayOne.png)
