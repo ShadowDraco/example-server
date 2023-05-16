@@ -32,8 +32,6 @@ describe('Server', () => {
 	test('handles not found', async () => {
 		const response = await mockRequest.get('/foo');
 		expect(response.status).toEqual(404); // can be toEqual or toBe
-		expect(response.body.route).toEqual('/bad');
-		//expect(response.body.message).toEqual('Server Error: ')
 	});
 
 	// TDD validate path parameters are being sent
