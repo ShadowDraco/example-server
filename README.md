@@ -22,7 +22,7 @@ A very basic express server that is used as a base for CI/CD deployment
 
 #### `.env` requirements
 
-port varialbe
+port variable
 
 #### How to set up the application
 
